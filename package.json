@@ -1,0 +1,19 @@
+{
+  "name": "torneodedebates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuygbg/TorneoDeDebate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chuygbg/TorneoDeDebate/issues"
+  },
+  "homepage": "https://github.com/chuygbg/TorneoDeDebate#readme"
+}
